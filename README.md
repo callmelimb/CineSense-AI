@@ -1,8 +1,10 @@
 # CineSense AI — Movie Review Sentiment Analyzer
 
-Paste a movie review → get Positive / Negative, a confidence score, and the exact
-words that influenced the result. Built with Streamlit, TF-IDF and Logistic Regression
-(~88.6% test accuracy on 50,000 IMDB reviews).
+An NLP and machine learning application that analyzes IMDB movie reviews and classifies
+audience opinions as positive or negative using TF-IDF and machine learning algorithms.
+Paste a review to get a sentiment, confidence score, and the words that influenced the
+result. Built with Streamlit, TF-IDF, and Logistic Regression (~88.6% test accuracy on
+50,000 IMDB reviews).
 
 ## Run it (Windows)
 
